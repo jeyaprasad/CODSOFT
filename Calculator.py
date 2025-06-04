@@ -1,5 +1,6 @@
 def calculator():
-    print("Simple Calculator- CodSoft")
+    print("Simple Calculator")
+    print("CodSoft")
     
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
